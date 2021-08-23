@@ -14,7 +14,7 @@ namespace HelloWorld
             return new List<string>
             {
                 "Hello",
-                "World"
+                "AWS"
             };
         }
     }
